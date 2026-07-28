@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sbs-cp/static/css/main.5f9ea92f.css",
+    "main.js": "/sbs-cp/static/js/main.cc1eab79.js",
+    "static/media/bootstrap-icons.woff?": "/sbs-cp/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/sbs-cp/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/sbs-cp/index.html",
+    "main.5f9ea92f.css.map": "/sbs-cp/static/css/main.5f9ea92f.css.map",
+    "main.cc1eab79.js.map": "/sbs-cp/static/js/main.cc1eab79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9ea92f.css",
+    "static/js/main.cc1eab79.js"
+  ]
+}
