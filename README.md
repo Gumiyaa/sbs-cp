@@ -7,6 +7,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+<details>
+<summary><strong>📖 Dokumen Lengkap</strong> — About Project, Fitur, Cara Menjalankan, & lainnya</summary>
+
 ## 📌 About Project
 
 SBS Company Profile is a modern responsive website developed using **React.js**. 
@@ -78,3 +81,5 @@ Gumiyaa
 Frontend Developer | React.js Developer
 
 ⭐ If this project is useful, feel free to give a star!
+
+</details>
